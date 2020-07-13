@@ -1,0 +1,10 @@
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\bin\Debug\DataOutputer.exe.config
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\bin\Debug\DataOutputer.exe
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\bin\Debug\DataOutputer.pdb
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\obj\Debug\DataOutputer.csprojAssemblyReference.cache
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\obj\Debug\DataOutputer.Form1.resources
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\obj\Debug\DataOutputer.Properties.Resources.resources
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\obj\Debug\DataOutputer.csproj.GenerateResource.cache
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\obj\Debug\DataOutputer.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\obj\Debug\DataOutputer.exe
+C:\Users\Akshay Kotish\source\repos\DataOutputer\DataOutputer\obj\Debug\DataOutputer.pdb
